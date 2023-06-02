@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PigeonTheDev
-- 👀 I’m interested in JavaScript Programming
-- 🌱 I’m currently learning Node.js
+- 👀 I’m a Junior React Developer
+- 🌱 I’m currently practicing in my own projects
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me aycicek.u@gmail.com
 
