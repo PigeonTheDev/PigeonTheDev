@@ -13,6 +13,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+<div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PigeonTheDev)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <!---
 PigeonTheDev/PigeonTheDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
