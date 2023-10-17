@@ -1,7 +1,7 @@
   <h1>👋 Hi, I’m @PigeonTheDev, a.k.a Ulaş Ayçiçek</h1> 
   <h2>Frontend Developer</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PigeonTheDev&theme=dark)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
