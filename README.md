@@ -1,11 +1,14 @@
   <h1 align="center">👋 Hi, I’m @PigeonTheDev, a.k.a Ulaş Ayçiçek</h1> 
   <h2  align="center">Frontend Developer</h2>
-<div  align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=PigeonTheDev&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=PigeonTheDev&theme=dark" />
+ 
 </div>
 
+<h2 align="center" >:hammer_and_wrench: Languages and Tools</h2>
+  
 
-### :hammer_and_wrench: Languages and Tools :
+
 <div  align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
