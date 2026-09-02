@@ -1,5 +1,5 @@
   <h1 align="center">👋 Hi, I’m @PigeonTheDev, a.k.a Ulaş Ayçiçek</h1> 
-  <h2  align="center">Frontend Developer</h2>
+  <h2  align="center">Fullstack Developer</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=PigeonTheDev&theme=dark" />
  
